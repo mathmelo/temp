@@ -1,6 +1,4 @@
 const INPUT = 13;
-let first = 0;
-let last = 1;
 
 function checkFibonacci(input) {
   let fibonacci = [0, 1];
